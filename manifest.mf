@@ -2,3 +2,4 @@ Manifest-Version: 1.0
 Manifest-Version: 2.0
 X-COMMENT: Main-Class will be added automatically by build
 
+ int a=10; int b=20;int c=a+b;

@@ -1,4 +1,4 @@
-Table of Content# java-attendance-management-system
+ int a=10; int b=20;int c=a+b;Table of Content# java-attendance-management-system
 **Table of Content**
 
 | Project Briefing                       | 3  |
