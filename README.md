@@ -1,4 +1,4 @@
-# java-attendance-management-system
+Table of Content# java-attendance-management-system
 **Table of Content**
 
 | Project Briefing                       | 3  |
