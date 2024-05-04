@@ -1,4 +1,4 @@
-# java-attendance-management-system
+Table of Content# java-attendance-management-system
 **Table of Content**
 
 | Project Briefing                       | 3  |
@@ -109,7 +109,7 @@ with following the table normalization rules.
 
 **WORKING OF PRESENT SYSTEM**
 
- In the present system all work is done on paper. The whole session attendance is stored in register and at the end of the session the reports are generated. We are not interested in generating report in the middle of the session or as per the requirement because it takes more time in calculation. At the end of session the students who don’t have 75% attendance get a notice. 
+ In the present system all work is done on paper. The whole session attendance is stored in register and at the end of the session the reports are generated. We are not interested in generating report in the middle of the session or as per the requirement because it takes more time in calculation. At the end of session the students who donâ€™t have 75% attendance get a notice. 
 
 DISADVANTAGES OF PRESENT WORKING SYSTEM 
 
@@ -162,7 +162,7 @@ ADVANTAGES OF THE PROPOSED SYSTEM
 
 **Software**
 
-Combination of the following Software’s are to be used:
+Combination of the following Softwareâ€™s are to be used:
 
 -   Net Beans 8
 
@@ -267,14 +267,14 @@ Through this frame user can mark absentees attendance only
 
 ![](media/639558a72875b1787c556f4fd059d6ee.png)
 
-It will only ask for date on which user can mark absentees’ attendance
+It will only ask for date on which user can mark absenteesâ€™ attendance
 
 As soon as user select the date book and session will be fill out
 
 ![](media/7fedf2b5fce9d25ae1f3750d2263f423.png)
 
 And the in the same way user will fetch the data and mark attendance for
-absentees’
+absenteesâ€™
 
 ![](media/2f3c9bd030044b1f3dcd3622f63db5d2.png)
 
@@ -320,7 +320,7 @@ Through exit button teacher will close the windows and Sign Out
 
 .
 
-Teacher Button will open Teacher’s Frame
+Teacher Button will open Teacherâ€™s Frame
 
 From here new teacher can be added and details can also be seen.
 
@@ -361,7 +361,7 @@ Clear button will clear the text fields
 
 View all button will show all the student in the table
 
-Batch Button will open batch’s frame
+Batch Button will open batchâ€™s frame
 
 From here new batch can be added and details can also be seen.
 
@@ -380,7 +380,7 @@ Clear button will clear the text fields
 View all batch will show all the teacher in the table
 
 By Clicking on DashBorad Button main window appear
-
+updated files
 ![](media/e2b8d4274f4ef1e1fcd7ae0f7bfc04c6.png)
 
 Reporting can be done in four different
