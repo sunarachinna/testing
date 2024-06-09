@@ -15,3 +15,4 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
     steps:
       - run: echo 'The triggering workflow failed'
+        //th yaml file is used to run time
